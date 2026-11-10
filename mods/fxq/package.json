@@ -1,0 +1,1 @@
+{ "type": "module", "private": true, "description": "The 飞行棋 server runs from here with node: node server.mjs [port] [password]" }
